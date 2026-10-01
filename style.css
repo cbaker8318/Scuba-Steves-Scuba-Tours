@@ -1,0 +1,81 @@
+/* Main page styling */
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-image: url("images/ocean-background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    color: white;
+}
+
+
+/* Header */
+
+header {
+    background-color: rgba(0, 30, 60, 0.90);
+    text-align: center;
+    padding: 25px;
+}
+
+header h1 {
+    margin: 0;
+    color: #ffffff;
+}
+
+
+/* Navigation */
+
+nav {
+    margin-top: 15px;
+}
+
+nav a {
+    color: #7fdbff;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+
+/* Main website content */
+
+main {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+
+/* Content sections */
+
+section {
+    background-color: rgba(0, 40, 70, 0.85);
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+
+/* Headings */
+
+h2 {
+    color: #7fdbff;
+}
+
+
+/* Paragraphs and lists */
+
+p,
+li {
+    line-height: 1.6;
+}
