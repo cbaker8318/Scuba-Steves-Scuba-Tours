@@ -65,7 +65,7 @@ The Work Breakdown Structure divides the project into deliverables, components, 
 
 #### Component: Homepage
 
-##### Activities
+##### Task
 
 - Create the HTML structure for `index.html`.
 - Add the Scuba Steve's Scuba Tours title.
@@ -77,7 +77,7 @@ The Work Breakdown Structure divides the project into deliverables, components, 
 
 #### Component: Website Styling
 
-##### Activities
+##### Task
 
 - Create the `style.css` file.
 - Add an ocean image as the website background.
@@ -98,7 +98,7 @@ The Work Breakdown Structure divides the project into deliverables, components, 
 
 #### Component: Project Documentation
 
-##### Activities
+##### Task
 
 - Revise my `scope.md` from the peer review feedback.
 - Complete the TAME risk analysis in `plan.md`.
@@ -116,7 +116,7 @@ The Work Breakdown Structure divides the project into deliverables, components, 
 
 #### Component: Published Website
 
-##### Activities
+##### Task
 
 - Upload all project files to the GitHub repository.
 - Confirm that the repository is public.
