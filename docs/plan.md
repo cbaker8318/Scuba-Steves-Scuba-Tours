@@ -10,28 +10,45 @@ The goal of this project is to create and publish a simple two-page website for 
 
 ## Risk Analysis
 
-The TAME framework identifies four options for managing project risks:
+Using the TAME framework for my risk analysis listed below are possbile risk I have identified and how I will deal with them.
 
-- **Transfer:** Shift the risk to a third party.
-- **Accept:** Acknowledge the risk and deal with it if it occurs.
-- **Mitigate:** Lessen the risk by reducing its probability and/or impact.
-- **Eliminate:** Remove the risk.
+### Risk 1: HTML or CSS Coding Errors
 
-The following risks could affect the successful completion of the Scuba Steve's Scuba Tours website.
+**Impact:** The website may not look or function properly.
 
-| Risk | Impact | TAME Strategy | Response |
-| --- | --- | --- | --- |
-| HTML or CSS coding errors | The website may not display or function correctly. | Mitigate | Test both web pages throughout development and correct errors as they are found. |
-| GitHub Pages publishing problems | The website may not be available online when the project is due. | Mitigate | Publish and test the website before the final deadline to allow time for troubleshooting. |
-| Limited project time | Some project tasks may not be completed before the deadline. | Accept | Follow the Work Breakdown Structure and complete the required project elements before adding optional features. |
-| Missing required files | The project may not meet the assignment requirements. | Eliminate | Create all required files at the beginning of the project and use the assignment requirements as a checklist. |
-| Problems with the ocean background image | The image may not load or may make the website difficult to read. | Mitigate | Store the image inside the repository and use contrasting colors and transparent backgrounds to keep text readable. |
+**Strategy:** Mitigate
+
+**Response:** Test both web pages throughout development and correct errors as they are found.
+
+### Risk 2: Limited Project Time
+
+**Impact:** Some project tasks may not be completed before the deadline.
+
+**Strategy:** Accept
+
+**Response:** Follow the Work Breakdown Structure and complete the required project elements before adding optional features.
+
+### Risk 3: Missing Required Files
+
+**Impact:** The project may not meet the assignment requirements.
+
+**Strategy:** Eliminate
+
+**Response:** Create all required files at the beginning of the project and use the assignment requirements as a checklist.
+
+### Risk 4: Ocean Background Image Problems
+
+**Impact:** The image may not load correctly or make the words unreadable.
+
+**Strategy:** Mitigate
+
+**Response:** Store the image inside the repository and use contrasting colors and transparent backgrounds to keep the text readable.
 
 ## Work Breakdown Structure
 
-The Work Breakdown Structure divides the project into high-level deliverables, components, and activities.
+The Work Breakdown Structure divides the project into deliverables, components, and activities.
 
-### High-Level Deliverables
+### Deliverables
 
 1. Completed Website
 2. Project Documentation
@@ -62,7 +79,7 @@ The Work Breakdown Structure divides the project into high-level deliverables, c
 
 ##### Activities
 
-- Create the external `style.css` file.
+- Create the `style.css` file.
 - Add an ocean image as the website background.
 - Select complementary ocean-themed colors.
 - Style headings, paragraphs, and navigation links.
@@ -83,10 +100,10 @@ The Work Breakdown Structure divides the project into high-level deliverables, c
 
 ##### Activities
 
-- Revise `scope.md` based on project requirements and feedback.
+- Revise my `scope.md` from the peer review feedback.
 - Complete the TAME risk analysis in `plan.md`.
 - Complete the Work Breakdown Structure in `plan.md`.
-- Complete `retrospective.md` after the project is finished.
+- Complete `retrospective.md` as the final document.
 - Create `README.md` with the project purpose and required links.
 
 ### Deliverable 3: Public GitHub Repository and Published Website

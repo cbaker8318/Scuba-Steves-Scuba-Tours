@@ -8,7 +8,7 @@ The project was created using HTML, CSS, Markdown, GitHub, and GitHub Pages.
 
 ## Live Website
 
-[Visit Scuba Steve's Scuba Tours](LIVE-WEBSITE-LINK-HERE)
+[Visit Scuba Steve's Scuba Tours](https://cbaker8318.github.io/Scuba-Steves-Scuba-Tours/)
 
 ## Project Documentation
 
